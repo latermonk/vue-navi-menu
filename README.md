@@ -1,32 +1,17 @@
-# element-navmenu
 
-## Project setup
-```
-yarn install
-```
+# The Processing
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+##  0. npm run build
 
-### Compiles and minifies for production
+##  1.修改提交 master branche
+
+##  2.提交 gh-pages
+
 ```
-yarn run build
+git subtree push --prefix dist origin gh-pages
+
 ```
 
-### Run your tests
-```
-yarn run test
-```
+##  3.访问GitHub pages 链接
+https://latermonk.github.io/deploy-vue/
 
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-### [在线演示地址](https://xiaolannuoyi.github.io/element-navmenu/)
-
-### [vue elementui navmenu 多级导航菜单(水平、垂直)](https://blog.csdn.net/qq_31126175/article/details/81875468#comments).
